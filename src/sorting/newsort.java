@@ -34,7 +34,7 @@ public class newsort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int arr[] = {12, 11, 13, 5, 6}; 
+		 int arr[] = {12, 11, 13, 5, 6,89,99}; 
 		  
 	        newsort ob = new newsort();         
 	        ob.sort(arr); 
